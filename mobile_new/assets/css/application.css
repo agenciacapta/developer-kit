@@ -31,7 +31,7 @@ a.meanmenu-reveal {
 }
 
 .mean-container .mean-bar {
-    background: #f5f3f3;
+    background: #c40000;
     font: 16px/1.5 "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
     float: left;
     min-height: 42px;
@@ -42,7 +42,7 @@ a.meanmenu-reveal {
 }
 
 .mean-container .mean-bar .to-right{
-    color: #666;
+    color: #fffff;
     float: right;
     padding: 11px;
 }
@@ -58,7 +58,7 @@ a.meanmenu-reveal {
     top: 0;
     float: left;
     cursor: pointer;
-    color: #898989;
+    color: #ffffff;
     text-decoration: none;
     font-size: 16px;
     text-indent: -9999em;
@@ -74,7 +74,7 @@ a.meanmenu-reveal {
     height: 22px;
     padding: 10px 20px 10px 20px;
     float: right;
-    color: #898989;
+    color: #ffffff;
     text-decoration: none;
     font-size: 20px;
 }
@@ -84,20 +84,20 @@ a.meanmenu-reveal {
     height: 22px;
     padding: 7px 10px 10px 10px;
     float: right;
-    color: #898989;
+    color: #fffff;
     text-decoration: none;
     font-size: 20px;
 }
 
 .mean-container a.meanmenu-reveal span {
     display: block;
-    background: #898989;
+    background: #ffffff;
     height: 3px;
     margin-top: 3px;
 }
 
 .mean-container .mean-nav {
-    background: #f9f9f9;
+    background: #c40000;
     float: left;
     width: 100%;
 }
@@ -122,7 +122,7 @@ a.meanmenu-reveal {
     padding: 1em 5%;
     margin: 0;
     text-align: left;
-    color: #898989;
+    color: #fffff;
     border-top: 1px solid #383838;
     border-top: 1px solid rgba(255,255,255,0.5);
     text-decoration: none;
@@ -162,11 +162,11 @@ a.meanmenu-reveal {
 }
 
 .mean-container .mean-nav ul li a:hover {
-    background: #f9f9f9;
+    background: #c40000;
 }
 
 .mean-container .mean-nav ul li a.mean-expand {
-    background: #f9f9f9;
+    background: #c40000;
     border: none !important;
     border-left: 1px solid rgba(255,255,255,0.4) !important;
     border-bottom: 1px solid rgba(255,255,255,0.2) !important;
@@ -183,7 +183,7 @@ a.meanmenu-reveal {
 }
 
 .mean-container .mean-nav ul li a.mean-expand:hover {
-    background: #f9f9f9;
+    background: #c40000;
 }
 
 .mean-container .mean-push {
